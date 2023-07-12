@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crosssmart
-- 👀 I’m interested in HTML,CSS,JAVASCRIPT and other things
-- 🌱 I’m currently learning javascript, HTML
+- 👀 I’m interested in game programing and other stuff
+- 🌱 I’m currently learning gml Js C++
 - 💞️ I’m looking to collaborate on projects like games apps and stuff..
 - 📫 How to reach me . . . in discord CrossSmart#5380
 
