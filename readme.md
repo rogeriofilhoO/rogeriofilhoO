@@ -1,5 +1,5 @@
 ## Oi, eu gosto de música '-'
 
 <div>
-	[(https://github-readme-stats.vercel.app/api?username=rogeriofilhoO)]
+	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriofilho0)]
 </div>
