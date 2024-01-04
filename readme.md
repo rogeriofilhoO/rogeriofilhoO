@@ -1,3 +1,5 @@
-- 👋 Oi, sou o Rogerio Filho e gosto de Música :)
-- 👀 Estudando C++, Javascript e Dev Web.
-- 🌱 Cursando TI
+## Oi, eu gosto de música '-'
+
+<div>
+	[(https://github-readme-stats.vercel.app/api?username=rogeriofilhoO)]
+</div>
