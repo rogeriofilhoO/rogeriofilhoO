@@ -11,7 +11,7 @@
 		<img align="center" width="50em" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 		<img align="center" width="50em" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         	<img align="center" width="52em" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /
-            	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+            	<img align="center" width="52em" alt="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
 	</div>
 	<div>
 		<p align="right"><i>Rogerio Filho 🤸‍♂️</i></p>
