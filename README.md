@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Roblox game, and some little apps <br/><br>🌱 I’m currently learning C#, Lua.<br/><br>⚡ Favorite Hobby: Listening to music.<br/>
+🔭 I’m currently working on a Roblox game, and some little apps <br/><br>🌱 I’m currently learning JS, C#, Lua.<br/><br>⚡ Favorite Hobby: Listening to music.<br/>
 
 
 ## 🌐 Socials:
